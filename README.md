@@ -1,2 +1,2 @@
 # ComputerArchitecture_Study
-컴퓨터 아키텍쳐
+컴퓨터 아키텍쳐 🛠
