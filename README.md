@@ -4,5 +4,5 @@
 
 <p align="center"> 
          <B>ComputerArchitecture _ Computer Science</B><br><br>
-          Korea National University of Transportation ComputerArchitecture in 2021 
+          Korea National University of Transportation ComputerArchitecture in 2021
 </p>
